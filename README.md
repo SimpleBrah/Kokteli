@@ -8,7 +8,7 @@
 ### Basil Smash: 8 gin:3 lime:3 syrup:~10 basil leaves; Shaken, muddle basil, ice; basil garnish; Old fashioned glass; 4 servings; 
 ### Negroni: 1 gin:1 campari:1 sweet(red) vermuth; Stir in ice glass, orange peel garnish; Low glass
 ### Bees knees: 4 gin:1 lime:1 syrup(honey);
-### ### Gin fizz: 8 gin: 3 lime:3 syrup:2 eggwhite:12 soda; Dry then wet shake, soda then shaker in no ice glass; Highball glass; 4 servings;
+### Gin fizz: 8 gin: 3 lime:3 syrup:2 eggwhite:12 soda; Dry then wet shake, soda then shaker in no ice glass; Highball glass; 4 servings;
 ### Bramble: blackberry liqueur;
 ### Clover club: rasberry syrup;
 ### French 75: champagne or sparkling wine;
