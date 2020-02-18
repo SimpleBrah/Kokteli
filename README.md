@@ -46,3 +46,16 @@
 Lemon drop: vodka with sugared lemon wedge (add tripple sec?)
 Kamikaze: 8 vodka:3 triple sec:3 lime; ~16 servings?
 Apocalypse now: 1 tequila:1 dry(white) vermuth:1 bailys; layer bailys on top after shaking the other 2
+
+
+
+
+
+
+
+
+
+
+
+
+Use colored ice its so simple
