@@ -59,7 +59,3 @@ Apocalypse now: 1 tequila:1 dry(white) vermuth:1 bailys; layer bailys on top aft
 
 
 Use colored ice its so simple
-
-
-
-https://docs.google.com/spreadsheets/d/1WU03Pbt7tCFrt_UYkltbwPUDOf5cbkBcKcp6DYnoz8E/edit?usp=sharing
