@@ -18,6 +18,7 @@
 ### Appletini: 9 vodka:9 apple:1 lime:1 syrup; Shaken, no ice, apple fan garnish; Martini glass; 3 servings?
 ### Cosmopolitan: 9 vodka:9 cranberry:3 triple sec:2 lime; Shaken, no ice, flame orange peel; 3 servings?
 ### Caipiroska: 60ml vodka:1/2 lime pieces:3 tea spoons sugar; Shaken, muddled, ice glass, no garnish; Frozen with crushed ice?
+### Raspary Caipiroska: cut out lime wheel, then cut up half of it, 3 raspberrys, 3/4 oz rasp (or simple) syr., 2oz vodka, crushed ice, churn (muddle/stir aggro), wheel
 ### White russian: 1 vodka:1 coffie liquer:1 milk; Build in ice glass, coffie garnish
 ### Sex on the beach: 3 vodka:1 peach liqueur:3 orange:3 cranberry; shaken or build in glass, ice glass, orange garnish; Hurricane glass; 3 servings?
 
@@ -41,6 +42,7 @@
 ### Hurricane: 4 white rum:4 dark rum:2 lime:2 orange:1 passionfruit puree:barspoon grenadine; Shaken, Crushed ice glass, orange and cherry garnish; Hurracane glass ; 2 servings;
 ### Planters punch: 2 dark rum:1 lime:3/4 syrup:2 dash angustura bitters;
 ### Firemans sour: grenadine
+### Mojito: half lime, 3/4 oz simple syr, muddle, 12-15 leaves of mint (slapped), 2oz white rum, crushed ice it, stir/muddle aggro, finish with soda (or sprite or champ for mojito royal)
 
 ## Shots
 Lemon drop: vodka with sugared lemon wedge (add tripple sec?)
