@@ -1,7 +1,9 @@
 # Kokteli
 
 ## Mixed
-### Long island ice tea: 1 white rum:1 vodka:1 tequila:1 gin:1 triple sec:1 sour mix:top off with coke; Shaken, ice glass, lime garnish; Highball glass; 2 servings;
+### Long island ice tea: 
+#### White rum, vodka, tequila, gin, triple sec
+1 white rum:1 vodka:1 tequila:1 gin:1 triple sec:1 sour mix:top off with coke; Shaken, ice glass, lime garnish; Highball glass; 2 servings;
 
 ## Gin
 ### Tom Collins: 8 gin:3 lime:2 syrup:8 soda; Shaken, ice glass, top with soda , lime and chery garnish; Highball glass; 4 servings;
