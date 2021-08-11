@@ -6,28 +6,58 @@
 1 white rum:1 vodka:1 tequila:1 gin:1 triple sec:1 sour mix:top off with coke; Shaken, ice glass, lime garnish; Highball glass; 2 servings;
 
 ## Gin
-### Tom Collins: 8 gin:3 lime:2 syrup:8 soda; Shaken, ice glass, top with soda , lime and chery garnish; Highball glass; 4 servings;
-### Basil Smash: 8 gin:3 lime:3 syrup:~10 basil leaves; Shaken, muddle basil, ice; basil garnish; Old fashioned glass; 4 servings; 
-### Negroni: 1 gin:1 campari:1 sweet(red) vermuth; Stir in ice glass, orange peel garnish; Low glass
-### Bees knees: 4 gin:1 lime:1 syrup(honey);
-### Gin fizz: 8 gin: 3 lime:3 syrup:2 eggwhite:12 soda; Dry then wet shake, soda then shaker in no ice glass; Highball glass; 4 servings;
+### Tom Collins: 
+#### Gin, lime, soda
+8 gin:3 lime:2 syrup:8 soda; Shaken, ice glass, top with soda , lime and chery garnish; Highball glass; 4 servings;
+### Basil Smash: 
+#### Gin, lime, basil(mint?)
+8 gin:3 lime:3 syrup:~10 basil leaves; Shaken, muddle basil, ice; basil garnish; Old fashioned glass; 4 servings; 
+### Negroni: 
+#### Gin, campari, vermuth
+1 gin:1 campari:1 sweet(red) vermuth; Stir in ice glass, orange peel garnish; Low glass
+### Bees knees: 
+#### Gin, lime
+4 gin:1 lime:1 syrup(honey);
+### Gin fizz: 
+#### Gin, lime, eggwhite, soda
+8 gin: 3 lime:3 syrup:2 eggwhite:12 soda; Dry then wet shake, soda then shaker in no ice glass; Highball glass; 4 servings;
 ### Bramble: blackberry liqueur;
 ### Clover club: rasberry syrup;
 ### French 75: champagne or sparkling wine;
 
 ## Vodka
-### Sea breeze: 3 vodka:6 cranberry:2 grapefruit; Shaken, ice glass, grape garnish; Highball glass; 2 servings?
-### Appletini: 9 vodka:9 apple:1 lime:1 syrup; Shaken, no ice, apple fan garnish; Martini glass; 3 servings?
-### Cosmopolitan: 9 vodka:9 cranberry:3 triple sec:2 lime; Shaken, no ice, flame orange peel; 3 servings?
-### Caipiroska: 60ml vodka:1/2 lime pieces:3 tea spoons sugar; Shaken, muddled, ice glass, no garnish; Frozen with crushed ice?
-### Raspary Caipiroska: cut out lime wheel, then cut up half of it, 3 raspberrys, 3/4 oz rasp (or simple) syr., 2oz vodka, crushed ice, churn (muddle/stir aggro), wheel
-### White russian: 1 vodka:1 coffie liquer:1 milk; Build in ice glass, coffie garnish
-### Sex on the beach: 3 vodka:1 peach liqueur:3 orange:3 cranberry; shaken or build in glass, ice glass, orange garnish; Hurricane glass; 3 servings?
+### Sea breeze: 
+#### Vodka, cranberry, grapefruit(orange?)
+3 vodka:6 cranberry:2 grapefruit; Shaken, ice glass, grape garnish; Highball glass; 2 servings?
+### Appletini: 
+#### Vodka, apple juice, lime *best with midori*
+9 vodka:9 apple:1 lime:1 syrup; Shaken, no ice, apple fan garnish; Martini glass; 3 servings?
+### Cosmopolitan: 
+#### Vodka, cranberry, triple sec, lime
+9 vodka:9 cranberry:3 triple sec:2 lime; Shaken, no ice, flame orange peel; 3 servings?
+### Caipiroska: 
+#### Vodka, lime
+60ml vodka:1/2 lime pieces:3 tea spoons sugar; Shaken, muddled, ice glass, no garnish; Frozen with crushed ice?
+### Raspary Caipiroska: 
+#### Vodka, raspberry,
+cut out lime wheel, then cut up half of it, 3 raspberrys, 3/4 oz rasp (or simple) syr., 2oz vodka, crushed ice, churn (muddle/stir aggro), wheel
+### White russian: 
+#### Vodka, coffie liq., condenced milk(milk?)
+1 vodka:1 coffie liquer:1 milk; Build in ice glass, coffie garnish
+### Sex on the beach: 
+#### Vodka, peach liq., orange, cranberry
+3 vodka:1 peach liqueur:3 orange:3 cranberry; shaken or build in glass, ice glass, orange garnish; Hurricane glass; 3 servings?
 
 ## Whiskey
-### Brown derby: 3 whiskey(bourbon):2 grape:1 syrup(honey); Shaken, no ice, grape peel garnish; Coupe glass;
-### Manhattan: 2 whiksey(rye):1 sweet(red) vermouth:2 dashes angostura bitters; Stired with ice, served without ice, cherry; Coupe glass;
-### Whiskey sour: 8 whiskey:3 lime:3 syrup:2egg white; dry then wet shake, strain over ice; old fashioned glass 4 servings;
+### Brown derby: 
+#### Whiskey, grape juice
+3 whiskey(bourbon):2 grape:1 syrup(honey); Shaken, no ice, grape peel garnish; Coupe glass;
+### Manhattan: 
+#### Whiskey, vermouth, bitters
+2 whiksey(rye):1 sweet(red) vermouth:2 dashes angostura bitters; Stired with ice, served without ice, cherry; Coupe glass;
+### Whiskey sour: 
+#### Whiskey, lime, eggwhite
+8 whiskey:3 lime:3 syrup:2egg white; dry then wet shake, strain over ice; old fashioned glass 4 servings;
 
 ## Tequila
 ### Margarita: 3 tequila:2 lime:1 triple sec;Shaken, no ice, salt half of the glass, lime garnish; Old fashioned or coupe or martini glass;
