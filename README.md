@@ -60,19 +60,39 @@ cut out lime wheel, then cut up half of it, 3 raspberrys, 3/4 oz rasp (or simple
 8 whiskey:3 lime:3 syrup:2egg white; dry then wet shake, strain over ice; old fashioned glass 4 servings;
 
 ## Tequila
-### Margarita: 3 tequila:2 lime:1 triple sec;Shaken, no ice, salt half of the glass, lime garnish; Old fashioned or coupe or martini glass;
-### Mango margarita: 3 tequila:1 triple sec:2 lime:8 mango puree; blended, or blended with crushed ice, lime garnish; Coupe or martini glass; 2 servings;
-### Cinnamon margarita: 8 Tequila:1 gold rum:3 lime:2 cinnamon syrup:1 syrup:1/2 orange; Shaken, muddled; Highball glass; 4 servings;
+### Margarita: 
+#### Tequila, lime, triple sec
+3 tequila:2 lime:1 triple sec;Shaken, no ice, salt half of the glass, lime garnish; Old fashioned or coupe or martini glass;
+### Mango margarita: 
+#### Tequila, triple sec, lime, mango puree(fresh blended?/juice?)
+3 tequila:1 triple sec:2 lime:8 mango puree; blended, or blended with crushed ice, lime garnish; Coupe or martini glass; 2 servings;
+### Cinnamon margarita: 
+#### Tequila, rum, lime, cinnamon syrup(liq.?)
+8 Tequila:1 gold rum:3 lime:2 cinnamon syrup:1 syrup:1/2 orange; Shaken, muddled; Highball glass; 4 servings;
 ### Old fashioned: angestura bitters;
 
 ## Rum
-### Daiquiri: 8 white rum:3 lime:3 syrup; Shaken, no ice, lime garnish ; Coupe glass; 4 servings; Frozen with crushed ice?
-### Mai tai: 8 aged rum:3 curacao:4 lime:2 almond syrup; Shaken, ice glass, lime garnish; Old fashioned glass; 4 servings;
-### Salty bird: 11/2 white rum:3/4 campari:11/2 pinapple:1/2 lime:1/2 syrup:pinch salt; Shaken, crushed ice, pineapple or lime garnish; Highball glass; 1 servings;
-### Cuba libre: 2 white rum:1/2 lime pieces:top with coke; not shaken, muddled; highball glass; 1 servings;
-### Pina colada: 3 white rum:6 coconut cream: 12 pineapple; 2 servings; Shake without ice, add crushed ice and shake like mad, pineapple garnish; Hurricane glass;
-### Hurricane: 4 white rum:4 dark rum:2 lime:2 orange:1 passionfruit puree:barspoon grenadine; Shaken, Crushed ice glass, orange and cherry garnish; Hurracane glass ; 2 servings;
-### Planters punch: 2 dark rum:1 lime:3/4 syrup:2 dash angustura bitters;
+### Daiquiri: 
+#### White rum, lime
+8 white rum:3 lime:3 syrup; Shaken, no ice, lime garnish ; Coupe glass; 4 servings; Frozen with crushed ice?
+### Mai tai: 
+#### Rum, Curacao, lime, almond syrup
+8 aged rum:3 curacao:4 lime:2 almond syrup; Shaken, ice glass, lime garnish; Old fashioned glass; 4 servings;
+### Salty bird: 
+#### White rum, campari, pineapple, lime
+11/2 white rum:3/4 campari:11/2 pinapple:1/2 lime:1/2 syrup:pinch salt; Shaken, crushed ice, pineapple or lime garnish; Highball glass; 1 servings;
+### Cuba libre: 
+#### White rum, lime
+2 white rum:1/2 lime pieces:top with coke; not shaken, muddled; highball glass; 1 servings;
+### Pina colada: 
+#### White rum, coconut cream(blend?), pineapple
+3 white rum:6 coconut cream: 12 pineapple; 2 servings; Shake without ice, add crushed ice and shake like mad, pineapple garnish; Hurricane glass;
+### Hurricane: 
+#### White rum, dark rum, lime, orange
+4 white rum:4 dark rum:2 lime:2 orange:1 passionfruit puree:barspoon grenadine; Shaken, Crushed ice glass, orange and cherry garnish; Hurracane glass ; 2 servings;
+### Planters punch: 
+#### Rum, lime
+2 dark rum:1 lime:3/4 syrup:2 dash angustura bitters;
 ### Firemans sour: grenadine
 ### Mojito: half lime, 3/4 oz simple syr, muddle, 12-15 leaves of mint (slapped), 2oz white rum, crushed ice it, stir/muddle aggro, finish with soda (or sprite or champ for mojito royal)
 
